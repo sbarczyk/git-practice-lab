@@ -8,12 +8,6 @@ Zadania pochodzą z platformy: [https://gitexercises.fracz.com](https://gitexerc
 
 ---
 
-RAPORT Z WYDARZENIA:
-„Dziady są Git”
-
-E-mail do weryfikacji wykonanych zadań:
-Zadania wykonałem już miesiąc temu (po pierwszych labolatoriach programowania obiektowego).
-
 ## Zadanie 1: Master
 ```bash
 git verify
